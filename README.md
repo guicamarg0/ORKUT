@@ -1,3 +1,3 @@
 <h1> Pagina Orkut</h1>
-<a href"alura.com.br">Alura</a>
+file:///media/guest-sefakj/EVEREST%20ING/PROJETO%20ORKUT/orkut.html
 
